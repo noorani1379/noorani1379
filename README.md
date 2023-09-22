@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on myself<br>🤝 I’m looking to collaborate on<br>🌱 I’m currently learning AI<br>💬 Ask me about , ASP.NET, c#<br>⚡ Fun fact0
+I'm quite the enthusiast – a curious mind, to be precise. With around a year of experience in Front-end development, i immerse myself in programming cuz it's  my forte and my passion. Why? Because i am captivated by problem-solving, algorithm design, challenges, and the thrill of uncovering solutions to mysteries and problems. That's precisely why his affection for programming runs deep. Ultimately, any problem that's formidable for others becomes an enjoyable challenge for me.
+
+🔭 I’m currently working on myself<br>🤝 I’m looking to collaborate advance projectects or start Startup on<br>🌱 I’m currently learning AI<br>💬 Ask me about , ASP.NET, c#<br>⚡ Fun fact0
 
 
 ## 🌐 Socials:
