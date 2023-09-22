@@ -1,8 +1,31 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Say Hi from GREAT.
+</h1>
+
 # 💫 About Me:
 I'm quite the enthusiast – a curious mind, to be precise. With around a year of experience in Front-end development, i immerse myself in programming cuz it's  my forte and my passion. Why? Because i am captivated by problem-solving, algorithm design, challenges, and the thrill of uncovering solutions to mysteries and problems. That's precisely why his affection for programming runs deep. Ultimately, any problem that's formidable for others becomes an enjoyable challenge for me.
 
 🔭 I’m currently working on myself<br>🤝 I’m looking to collaborate advance projectects or start Startup on<br>🌱 I’m currently learning AI<br>💬 Ask me about , ASP.NET, c#<br>⚡ Fun fact0
 
+### <p align="center"> :hammer_and_wrench: Languages and Tools :</p> 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="CSharp" width="40"      height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40"      height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.cdnlogo.com/logos/r/32/rabbitmq.svg" title="RabbitMq" alt="RabbitMq" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+           
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alireza.nooranii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alireza-noorani) 
